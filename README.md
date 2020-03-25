@@ -1,2 +1,1 @@
-# xxoliverdkxx-gmail.com
-Danske Grafikere discord bot
+# Discord bot
